@@ -18,7 +18,7 @@
 ### 1. 克隆项目并安装依赖
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/CCTaiXu/Donation-Dapp.git
 cd donation-dapp
 npm install
 ```
