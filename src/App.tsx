@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { ethers } from "ethers";
 import "./App.css";
 
-const CONTRACT_ADDRESS = "0x5fbdb2315678afecb367f032d93f642f64180aa3"; // 部署后替换
+const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3"; // 部署后替换
 const CONTRACT_ABI = [
   // 只包含用到的 ABI 片段
   "function donate(string message) payable",
